@@ -2,7 +2,7 @@
 A variation of GBCL that parses a custom XML language.
 
 ## XML Example
-~~~
+~~~xml
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-stylesheet type='text/css' href='aimap.css'?>
 
